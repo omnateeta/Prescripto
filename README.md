@@ -9,4 +9,4 @@ Currently, two official plugins are available:
 
 - This repository content frontend work.
 This my Frontend project by using react frame work.
-Updated and redeployed.
+Updated and redeployed Successfully.
